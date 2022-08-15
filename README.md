@@ -1,1 +1,3 @@
-# Calculadora_IMC_Javascript
+# Calculadora de IMC
+
+Calculadora feita com HTML, CSS e Javascript.
